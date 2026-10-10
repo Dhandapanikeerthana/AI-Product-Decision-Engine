@@ -1,0 +1,17 @@
+Bug 1:
+Users experience payment failures when the internet connection becomes unstable.
+
+Bug 2:
+The mobile application sometimes freezes when the network connection is lost.
+
+Bug 3:
+The report page takes more than 8 seconds to load for large datasets.
+
+Bug 4:
+Some users cannot download reports correctly from the mobile application.
+
+Bug 5:
+The application consumes high battery when running continuously in the background.
+
+Bug 6:
+The dark mode setting is not available in the current application version.

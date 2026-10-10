@@ -1,0 +1,17 @@
+Decision 1:
+Offline mode was previously considered but postponed because the team wanted to focus on payment reliability first.
+
+Decision 2:
+Dark mode was requested by users but was classified as a low-priority usability improvement.
+
+Decision 3:
+Payment reliability was marked as a high-priority issue because failed payments directly affect customer transactions.
+
+Decision 4:
+Report export was planned for a future release because several business users requested downloadable reports.
+
+Decision 5:
+Mobile performance improvements were discussed after users reported slow loading on large datasets.
+
+Decision 6:
+Low-battery mode has not been evaluated by the product team yet.

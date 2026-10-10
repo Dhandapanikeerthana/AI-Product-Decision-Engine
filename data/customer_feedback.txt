@@ -1,0 +1,17 @@
+Customer 1:
+The mobile app should support offline mode. I often lose internet connection while travelling.
+
+Customer 2:
+The application becomes difficult to use when the network is slow.
+
+Customer 3:
+Please add dark mode. Using the application at night is uncomfortable.
+
+Customer 4:
+The payment process sometimes fails when the network connection is unstable.
+
+Customer 5:
+We need an export option to download our reports.
+
+Customer 6:
+The application should load faster on mobile devices.
