@@ -10,33 +10,30 @@ The system retrieves relevant evidence using Retrieval-Augmented Generation (RAG
 
 ## Application Screenshots
 
-### 1. Main Dashboard
+### 1. Project Structure in Visual Studio Code
 
-The main dashboard allows users to enter a product-related question and analyze which feature should be prioritized.
+The project structure illustrates how the application is organized into separate modules for document loading, evidence retrieval, feature matching, priority scoring, and the user interface.
 
-![AI Product Decision Engine - Main Dashboard](screenshots/main-dashboard.png)
+![Project Structure in VS Code](screenshots/project-structure.png.png)
 
-### 2. Payment Reliability Analysis
 
-**Example question:** Which feature should we prioritize for payment problems?
+### 2. Main Dashboard
 
-The system identifies Payment Reliability, calculates its priority score, and displays the score breakdown, AI-generated explanation, and supporting evidence.
+The main dashboard provides a simple interface for users to enter product-related questions and analyze feature priorities. It serves as the starting point for evidence-based product decision-making.
 
-![Payment Reliability Analysis](screenshots/payment-reliability.png)
+![AI Product Decision Engine - Main Dashboard](screenshots/main-dashboard.png.png)
 
-### 3. Offline Mode Analysis
+### 3. Payment Reliability Analysis
 
-**Example question:** Which feature should we prioritize for users with no internet?
+This screenshot demonstrates how the system analyzes payment-related problems and presents a priority score, score breakdown, AI-generated explanation, and supporting evidence.
 
-The system analyzes evidence related to internet connectivity and offline usability to produce a feature-priority result.
+![Payment Reliability Analysis](screenshots/payment-reliability.png.png)
 
-![Offline Mode Analysis](screenshots/offline-mode.png)
+### 4. Offline Mode Analysis
 
-### 4. Project Structure in Visual Studio Code
+This screenshot shows how the system evaluates an offline-mode request by retrieving relevant evidence from customer feedback, bug reports, feature requests, and previous decisions.
 
-The project is organized into separate modules for document loading, retrieval, feature matching, evidence filtering, priority scoring, and the Streamlit application.
-
-![Project Structure in VS Code](screenshots/project-structure.png)
+![Offline Mode Analysis](screenshots/offline-mode.png.png)
 
 ---
 
@@ -261,32 +258,6 @@ Try the following questions in the dashboard:
 - Uses a local LLM through Ollama.
 - Provides an interactive dashboard for product decision analysis.
 
-## Application Screenshots
-
-### 1. Project Structure in Visual Studio Code
-
-The project structure illustrates how the application is organized into separate modules for document loading, evidence retrieval, feature matching, priority scoring, and the user interface.
-
-![Project Structure in VS Code](screenshots/project-structure.png.png)
-
-
-### 2. Main Dashboard
-
-The main dashboard provides a simple interface for users to enter product-related questions and analyze feature priorities. It serves as the starting point for evidence-based product decision-making.
-
-![AI Product Decision Engine - Main Dashboard](screenshots/main-dashboard.png.png)
-
-### 3. Payment Reliability Analysis
-
-This screenshot demonstrates how the system analyzes payment-related problems and presents a priority score, score breakdown, AI-generated explanation, and supporting evidence.
-
-![Payment Reliability Analysis](screenshots/payment-reliability.png.png)
-
-### 4. Offline Mode Analysis
-
-This screenshot shows how the system evaluates an offline-mode request by retrieving relevant evidence from customer feedback, bug reports, feature requests, and previous decisions.
-
-![Offline Mode Analysis](screenshots/offline-mode.png.png)
 
 
 ## Limitations
